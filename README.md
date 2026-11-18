@@ -72,21 +72,23 @@ Aplicação meteorológica desenvolvida com React e TypeScript, com pesquisa de 
 
 ---
 
+
+---
+
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-    <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=GuilhermePerobelliZambolim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-        alt="Estatísticas do GitHub"
-    />
-    <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePerobelliZambolim&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
-        alt="Tecnologias mais utilizadas"
-    />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermePerobelliZambolim&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePerobelliZambolim&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
+    height="165"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
 
-📌 **Fique à vontade para explorar meus repositórios e conhecer um pouco mais do que venho desenvolvendo!**
